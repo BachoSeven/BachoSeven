@@ -5,8 +5,8 @@
 <a href="https://github.com/bachoseven/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bachoseven&repo=dotfiles&theme=gruvbox" />
 </a>
-<a href="https://github.com/bachoseven/mimi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bachoseven&repo=mimi&theme=gruvbox" />
+<a href="https://github.com/bachoseven/labdidcomp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bachoseven&repo=labdidcomp&theme=gruvbox" />
 </a>
 <a href="https://github.com/bachoseven/AARGH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bachoseven&repo=AARGH&theme=gruvbox" />
